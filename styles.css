@@ -1,1 +1,17 @@
 /* your code */
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+
+thead
+{
+  background-color: #2c5e77;
+  color: #fff;
+}
+tbody {
+  background-color: #e4f0f5;
+}
+
